@@ -1,2 +1,2 @@
 # webpage1
-This is my first website on github.com
+In this i have just made the simple webpage by using HTML & CSS.
